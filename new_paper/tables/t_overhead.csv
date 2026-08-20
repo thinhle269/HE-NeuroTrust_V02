@@ -1,0 +1,6 @@
+scenario,time_local_train_sec,time_encrypt_sec,time_aggregate_sec,time_decrypt_sec,time_fuzzy_sec,time_total_sec,he_ciphertext_MB,expansion,mal_rej,mal_tot
+fedavg,10.479,0.0,0.0,0.0,0.0,10.767,0.0,0.0,0.0,0.0
+krum,10.601,0.0,0.001,0.0,0.0,10.89,0.0,0.0,0.0,3.0
+fedavg_he,10.559,5.571,3.218,0.199,0.0,19.898,12.063,64.0,0.0,3.0
+full_system,10.492,5.259,1.941,0.196,0.12,18.374,12.063,64.0,3.0,3.0
+full_system_neuro,10.443,5.274,2.404,0.196,0.022,18.702,12.063,64.0,2.6,3.0
