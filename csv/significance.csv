@@ -1,0 +1,13 @@
+reference,vs_scenario,metric,n_seeds,ref_mean,other_mean,mean_diff,wins,wilcoxon_p,ttest_p,cohens_d
+full_system,fedprox,test_macro_f1,5,0.5964,0.4745,0.1219,5,0.0625,0.0027,2.947
+full_system,fedavg_attack,test_macro_f1,5,0.5964,0.4863,0.1101,5,0.0625,0.0034,2.778
+full_system,fedavg_he,test_macro_f1,5,0.5964,0.4866,0.1098,5,0.0625,0.0031,2.842
+full_system,foolsgold,test_macro_f1,5,0.5964,0.4999,0.0965,5,0.0625,0.0216,1.637
+full_system,krum,test_macro_f1,5,0.5964,0.5045,0.0919,5,0.0625,0.0515,1.228
+full_system,trimmed_mean,test_macro_f1,5,0.5964,0.5066,0.0898,5,0.0625,0.0075,2.236
+full_system,fedmedian,test_macro_f1,5,0.5964,0.509,0.0874,5,0.0625,0.0114,1.981
+full_system,bulyan,test_macro_f1,5,0.5964,0.5123,0.0841,5,0.0625,0.0197,1.684
+full_system,fedavg_he_fuzzy,test_macro_f1,5,0.5964,0.577,0.0194,4,0.125,0.1967,0.692
+full_system,full_system_neuro,test_macro_f1,5,0.5964,0.5933,0.0031,2,1.0,0.7076,0.18
+full_system,fedavg,test_macro_f1,5,0.5964,0.6027,-0.0063,1,0.4375,0.5335,-0.304
+full_system,centralized,test_macro_f1,5,0.5964,0.6338,-0.0374,0,0.0625,0.0091,-2.114

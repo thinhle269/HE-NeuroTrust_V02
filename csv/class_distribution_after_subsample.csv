@@ -1,0 +1,9 @@
+Label,count
+DoS,50000
+Mirai,50000
+DDoS,50000
+Benign,50000
+Recon,41376
+Spoofing,28068
+Web,1515
+BruteForce,775
