@@ -1,6 +1,6 @@
 # HE-NeuroTrust
 
-**Homomorphic Encryption and Neuro-Fuzzy Zero-Trust for Privacy-Preserving, Byzantine-Robust Federated Intrusion Detection in IoT**
+**Homomorphic Encryption and Neuro-Fuzzy Zero-Trust  Federated Intrusion Detection in IoT**
 
  .
 
@@ -75,7 +75,7 @@ Preprocessing (stratified 70/15/15 split, ≤ 50 000 flows per class, scaler **f
 
 ### Where the seeds live
 
-The five seeds quoted in the paper are declared **once**, in the config — there is no seed hardcoded anywhere in the experiment code:
+ 
 
 ```yaml
 # configs/default.yaml
